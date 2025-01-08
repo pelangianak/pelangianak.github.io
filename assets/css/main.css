@@ -232,13 +232,17 @@ h6 {
 .header .logo h1 {
   font-size: 32px;
   margin: 0;
+  margin-bottom: 8px;
   font-weight: 700;
   color: var(--heading-color);
 }
 
-.header .logo span {
-  font-size: 32px;
+.header .logo p {
+  font-size: 18px;
+  margin-top: 55px;
+  position: absolute;
   font-weight: 700;
+  margin-left: 55px;
   color: var(--accent-color);
 }
 
